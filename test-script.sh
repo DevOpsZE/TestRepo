@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Test script which sets up GitHub credentials, creates folder, initializes localgit repository and uploads test script files to the remote repository.
+
 echo "Setting up github credentials"
 
 git config --global user.email "decipher@abv.bg"
